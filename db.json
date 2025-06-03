@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Zé da Bexiga",
+    "username": "Bexiga",
+    "email": "zedabexiga@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 2,
+    "name": "Zé da Cadeira",
+    "username": "Cadeira",
+    "email": "zedacadeira@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 3,
+    "name": "Zé da Caneta",
+    "username": "Canetinha",
+    "email": "zedacaneta@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 4,
+    "name": "Zé da Vassoura",
+    "username": "Vassourinha",
+    "email": "zedavassoura@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 5,
+    "name": "Zeca Urubu",
+    "username": "Pica-pau",
+    "email": "zecaurubu@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 6,
+    "name": "Zé Pistola",
+    "username": "Pistolinha",
+    "email": "zepistola@teste.com",
+    "address": {
+     "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 7,
+    "name": "Zé do Botijão",
+    "username": "Gasoso",
+    "email": "zedobotijao@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 8,
+    "name": "Zé do Baralho",
+    "username": "Cacheta",
+    "email": "zedobaralho@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 9,
+    "name": "Zé da Mandioca",
+    "username": "Mandioquinha",
+    "email": "zedamadioca@teste.com",
+    "address": {
+     "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  },
+  {
+    "id": 10,
+    "name": "Orlevando Horácio Carvalho Cruz",
+    "username": "OHCC",
+    "email": "ohcarvalhocruz@teste.com",
+    "address": {
+      "street": "Cafundé",
+      "suite": "Apt. 111",
+      "city": "Mandiocalópolis",
+      "zipcode": "4002-8922",
+      "phone": "(99) 5555-6666"
+      }
+  }
+]
